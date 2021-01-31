@@ -1,5 +1,3 @@
-REZUME
-I learning programming...
 <dir dir ="rtl">
 	معصومه قدیری مطلق
 	تحصیلات 
