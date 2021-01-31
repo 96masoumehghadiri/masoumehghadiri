@@ -1,2 +1,8 @@
 REZUME
 I learning programming...
+<dir dir ="rtl">
+	معصومه قدیری مطلق
+	تحصیلات 
+	دانشجوی کارشناسی نرم افزار
+  
+  </div>
